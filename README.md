@@ -19,4 +19,4 @@ I am a software and AI developer with a passion for neuroscience research. I lov
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/yaranasserr)
-- [Personal Website](https://yaranasserr.github.io) (if you have one)
+
