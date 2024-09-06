@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Yara Nasser
 
-<!--
-**yaranasserr/yaranasserr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software and AI developer with a passion for neuroscience research. I love to create, innovate, and collaborate on projects that push the boundaries of technology and science.
 
-Here are some ideas to get you started:
+### 🧠 What I Do:
+- 🖥️ Software Development and AI
+- 🔬 Research in Neuroscience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+- **Programming Languages:** Python, C, C++, Java, Matlab, HTML, CSS, JavaScript, Ruby, SQL
+- **Technologies/Frameworks:** Linux, Docker, GitHub, Django, Ruby on Rails, Tensorflow, Keras, MySQL, PostgreSQL
+
+### 📊 GitHub Stats:
+![Yara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaranasserr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaranasserr&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaranasserr&theme=radical)
+
+### 📫 How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/yaranasserr)
+- [Personal Website](https://yaranasserr.github.io) (if you have one)
