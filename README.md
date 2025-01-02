@@ -34,7 +34,7 @@ I am a software and AI developer with a passion for neuroscience research. I lov
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Yara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaranasserr&show_icons=true&theme=radical)
+<!-- ![Yara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaranasserr&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaranasserr&layout=compact&theme=radical)
 
