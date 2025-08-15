@@ -1,12 +1,3 @@
-## 👋 Hi, I'm Yara Nasser
-
-I am a software and AI developer with a passion for neuroscience research. I love to create, innovate, and collaborate on projects that push the boundaries of technology and science.
-
-### 🧠 What I Do:
-- 🖥️ Software Development and AI
-- 🔬 Research in Neuroscience
-
-### 🛠️ Languages and Tools:
 
 **Programming Languages:**
 
