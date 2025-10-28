@@ -24,17 +24,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🧠 LeetCode Stats
+### LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/yaranasserr?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/yaranasserr/)
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 <!-- ![Yara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaranasserr&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaranasserr&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaranasserr&theme=radical)
 
-### 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/yaranasserr)
+### [LinkedIn](https://www.linkedin.com/in/yaranasserr)
+
 
